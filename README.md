@@ -11,8 +11,6 @@
 
 This tool was created to assist investigators attempting to unravel the mysteries of **Liber Primus** and other Cicada 3301 ciphers.
 
-It is not just another decryption program.  
-It is a **digital athenaeum** for serious seekers.
 
 ### Features
 
